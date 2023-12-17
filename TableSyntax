@@ -1,0 +1,3 @@
+Create table tablename(
+coulmnname datatype (size), 
+coulmnname datatype null); 
